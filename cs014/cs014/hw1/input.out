@@ -1,0 +1,6 @@
+EA 50 could be represented as:
+MU 0,0,0,0,2,0,1
+MU 0,0,0,0,2,1
+MU 0,0,0,0,2
+A legal representation of this amount is:
+MU 0,0,0,0,2
